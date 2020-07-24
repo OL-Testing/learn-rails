@@ -1,3 +1,5 @@
+h1. Hi Ezra!
+
 h1. !http://railsapps.github.io/images/rails-36x36.jpg(Learn Rails)! Learn Rails
 
 A Rails 5.1 example application to accompany the book "Learn Ruby on Rails":http://learn-rails.com/learn-ruby-on-rails.html.
